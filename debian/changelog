@@ -1,0 +1,5 @@
+python-semver (2.0.1-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #762848)
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 26 Sep 2014 00:28:25 +0800
