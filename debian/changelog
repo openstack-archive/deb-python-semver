@@ -1,4 +1,4 @@
-python-semver (2.0.1-2) UNRELEASED; urgency=medium
+python-semver (2.0.1-2) unstable; urgency=medium
 
   * Fixed VCS URLs (https).
   * d/rules: Changed UPSTREAM_GIT protocol to https
